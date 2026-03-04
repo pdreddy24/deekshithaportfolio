@@ -22,7 +22,6 @@ function Main() {
           </div>
 
           <h1>DEEKSHITHA REDDY</h1>
-          <p>Data Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/pdreddy24" target="_blank" rel="noreferrer">
